@@ -1,0 +1,6 @@
+{
+  "name": "Şifre Sıfırlama ve Kontrol Ödevi - Enes Öztürk",
+  "description": "Kullanıcı giriş ve şifre sıfırlama algoritması ödevi, canlı terminal/arayüz simülatörü ve çoklu dil kaynak kodları. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
